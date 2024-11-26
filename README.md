@@ -13,7 +13,7 @@ If you see a version number, NPM is installed. If not, make sure to install Node
 
 MySQL: You need to have a MySQL database set up. If you don't have MySQL installed, you can download MySQL Workbench to create a connection to your database.
 
-##Installation
+## Installation
 Once you have the prerequisites, follow these steps to set up the project:
 
 Clone the Repository: Clone this repository to your local machine.
