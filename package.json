@@ -1,0 +1,16 @@
+{
+  "name": "ecomtest",
+  "version": "1.0.0",
+  "description": "e commer test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "yum",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.4",
+    "sequelize": "^6.37.5"
+  }
+}
