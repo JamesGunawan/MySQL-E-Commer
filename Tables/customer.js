@@ -1,3 +1,4 @@
+// Creates the customer table using a sequelize syntax in javascript
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config');
 

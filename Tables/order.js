@@ -1,3 +1,4 @@
+// Creates the orders table using a sequelize syntax in javascript
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config');
 const Customer = require('./customer');

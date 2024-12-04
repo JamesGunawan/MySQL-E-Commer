@@ -1,5 +1,5 @@
-#ecomtest README
-##Prerequisites
+# MySQL E Commer README
+## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 
 Node.js: You need to have Node.js installed to run this project. You can download it from nodejs.org.
@@ -13,7 +13,7 @@ If you see a version number, NPM is installed. If not, make sure to install Node
 
 MySQL: You need to have a MySQL database set up. If you don't have MySQL installed, you can download MySQL Workbench to create a connection to your database.
 
-##Installation
+## Installation
 Once you have the prerequisites, follow these steps to set up the project:
 
 Clone the Repository: Clone this repository to your local machine.
@@ -35,7 +35,10 @@ DB_PORT=3306
 ```
 Make sure to replace `yourDBname`, `yourUser`, `yourPass`, and `yourPort` with your actual database name, username, password, and port.
 
-##Testing the Connection
+## Example Tables
+You can also find SQL examples of the Sequelize forms in the `example_tables` folder. This folder contains SQL scripts that demonstrate how the tables are structured and can be useful for reference.
+
+## Testing the Connection
 After setting up the .env file, you can test the connection to your database:
 
 Open your terminal and run the following command:

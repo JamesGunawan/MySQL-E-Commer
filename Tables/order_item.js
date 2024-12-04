@@ -1,3 +1,4 @@
+// Creates the order_item table using a sequelize syntax in javascript
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config');
 const Order = require('./order');

@@ -1,3 +1,4 @@
+// Configs that are required to connect to the database using the (".env") file
 require('dotenv').config();
 const { Sequelize } = require('sequelize');
 
