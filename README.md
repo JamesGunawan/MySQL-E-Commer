@@ -1,5 +1,5 @@
-# MySQL E Commer README
-## Prerequisites
+#ecomtest README
+##Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 
 Node.js: You need to have Node.js installed to run this project. You can download it from nodejs.org.
@@ -57,13 +57,13 @@ Once the script has finished running, you should see a message indicating that a
 
 Refresh MySQL Workbench: Open MySQL Workbench and refresh to see the newly created tables.
 
-##Troubleshooting
+## Troubleshooting
 If you encounter any issues, please check your database connection settings in the .env file and ensure that MySQL is running.
 
-Common Issues:
+# Common Issues:
 
 * Database connection refused: Check if MySQL is running and if the port is correct.
 * Unable to create tables: Check if the database connection is successful and if the .env file is configured correctly.
 
-#Conclusion
+##Conclusion
 You are now set up and ready to use the ecomtest application!
